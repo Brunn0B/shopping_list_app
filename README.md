@@ -1,6 +1,6 @@
 # Aplicativo de Lista de Compras (Simulação Local)
 
-Este é um aplicativo Flutter que permite aos usuários criar e gerenciar listas de compras com simulação de dados locais. Ele foi desenvolvido como parte de um projeto para demonstrar as funcionalidades de um aplicativo de lista de compras sem a necessidade de um backend como o Firebase.
+Este é um aplicativo Flutter que permite aos usuários criar e gerenciar listas de compras com simulação de dados locais. Ele foi desenvolvido como parte de um projeto para demonstrar as funcionalidades de um aplicativo de lista de compras.
 
 ## Funcionalidades
 
